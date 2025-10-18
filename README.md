@@ -1,4 +1,4 @@
-# 📈 Stock Market Data Analysis (Project DAP - 1)
+# 📈 Stock Market Data Analysis
 
 ## 🔹 Overview  
 This project is part of the **Data Analytics Projects (DAP) Mission** where we explore real-world datasets and extract meaningful insights.  
